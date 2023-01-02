@@ -21,7 +21,7 @@ class TestClass {
     }
 
     @Test
-    fun `when instance created then emits idle state`() {
+    fun test() {
         // doin' something
     }
 }
